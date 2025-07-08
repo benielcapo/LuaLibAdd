@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LuaLibAdd", "LuaLibAdd\LuaLibAdd.vcxproj", "{0CDFC4D3-9BBC-4171-98B3-CD0CEA39CFEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDFC4D3-9BBC-4171-98B3-CD0CEA39CFEF}.Debug|x64.ActiveCfg = Debug|x64
+		{0CDFC4D3-9BBC-4171-98B3-CD0CEA39CFEF}.Debug|x64.Build.0 = Debug|x64
+		{0CDFC4D3-9BBC-4171-98B3-CD0CEA39CFEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CDFC4D3-9BBC-4171-98B3-CD0CEA39CFEF}.Debug|x86.Build.0 = Debug|Win32
+		{0CDFC4D3-9BBC-4171-98B3-CD0CEA39CFEF}.Release|x64.ActiveCfg = Release|x64
+		{0CDFC4D3-9BBC-4171-98B3-CD0CEA39CFEF}.Release|x64.Build.0 = Release|x64
+		{0CDFC4D3-9BBC-4171-98B3-CD0CEA39CFEF}.Release|x86.ActiveCfg = Release|Win32
+		{0CDFC4D3-9BBC-4171-98B3-CD0CEA39CFEF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D54E73FB-8C19-4532-AE30-EC072C4BA0BC}
+	EndGlobalSection
+EndGlobal
